@@ -1,2 +1,2 @@
 # poke-wha
-Testing put the pokemon API
+Testing out the pokemon API
